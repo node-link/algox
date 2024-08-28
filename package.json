@@ -1,6 +1,6 @@
 {
   "name": "algox",
-  "version": "0.0.1",
+  "version": "1.0.0-alpha.0",
   "description": "Algox allows you to store, execute, and analyze arbitrary algorithms and logic in JavaScript (TypeScript).",
   "keywords": [
     "algox"
